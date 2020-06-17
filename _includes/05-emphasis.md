@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Things I *like*? ...
+
+Money.
+**Women.**
+__Booze.__
+_And how about them **calories.**_
